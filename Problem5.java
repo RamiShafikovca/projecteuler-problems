@@ -1,4 +1,6 @@
-package euler;
+/*	Rami Shafikov
+	Euler Problem #5
+	21/10/21		*/
 
 public class Problem5 {
 

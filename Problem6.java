@@ -1,4 +1,6 @@
-package euler;
+/*	Rami Shafikov
+	Euler Problem #6
+	10/21/10		*/
 
 public class Problem6 {
 	public static void main(String[] args) {
